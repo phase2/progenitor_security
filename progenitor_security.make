@@ -19,3 +19,5 @@ projects[role_watchdog][subdir] = contrib
 projects[username_enumeration_prevention][version] = 1.0
 projects[username_enumeration_prevention][subdir] = contrib
 
+projects[seckit][version] = 1.9-rc1
+projects[seckit][subdir] = contrib
