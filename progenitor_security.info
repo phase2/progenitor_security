@@ -5,4 +5,4 @@ core = 7.x
 dependencies[] = email_confirm
 dependencies[] = flood_control
 dependencies[] = role_watchdog
-dependencies[] = user_enumeration_prevention
+dependencies[] = username_enumeration_prevention
