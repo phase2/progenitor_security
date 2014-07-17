@@ -1,6 +1,7 @@
 name = Progenitor Security
 description = Provides some enhanced security and best practices.
 core = 7.x
+package = Progenitor
 
 dependencies[] = email_confirm
 dependencies[] = flood_control
