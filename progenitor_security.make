@@ -15,6 +15,7 @@ projects[flood_control][subdir] = contrib
 
 projects[role_watchdog][version] = 2.0-beta2
 projects[role_watchdog][subdir] = contrib
+projects[role_watchdog][patch][2056375] = http://drupal.org/files/issues/2056375-role_watchdog-format_username-5.patch
 
 projects[username_enumeration_prevention][version] = 1.0
 projects[username_enumeration_prevention][subdir] = contrib
