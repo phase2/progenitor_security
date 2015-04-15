@@ -23,5 +23,5 @@ projects[username_enumeration_prevention][subdir] = contrib
 projects[seckit][version] = 1.9
 projects[seckit][subdir] = contrib
 
-projects[password_policy][version] = 2.0-alpha3
+projects[password_policy][version] = 2.0-alpha4
 projects[password_policy][subdir] = contrib
